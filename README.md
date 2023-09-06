@@ -2,5 +2,5 @@
 
 - 👩🏻‍💻 Full-stack developer 
 - 📍 Based in Spain
-- ⚡️ ReactJS && VueJS && NodeJS && Django
+- ⚡️ VueJS && ReactJS && NodeJS && Django
 - Likes: 🎧 🎸 🍣 🍲 🎮 🏳️‍🌈 
